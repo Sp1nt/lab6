@@ -11,8 +11,8 @@ body {
     background: #4e4e4e;
 }
 #menu ul {
-    display: flex;
     justify-content: flex-end;
+    display: flex;
 }
 #menu ul ul{
     position: absolute;
@@ -35,7 +35,6 @@ body {
     background: #575757;
     color:orange;
     transform: scale(1.25);
-    font-size: 1em;
 }
 #menu ul li:hover ul{
     display: block;
